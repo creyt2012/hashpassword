@@ -1,5 +1,5 @@
 ## tool băm password
-- CÓ khả năng tạo 128^128 kết quả, ước chừng vài trăm nghìn tỉ tỉ tỉ kết quả
+- CÓ khả năng tạo 128^128 kết quả, ước chừng vài trăm triệu tỉ tỉ tỉ kết quả
   - Đã bao gồm chống trùng lặp kết quả
   - Chống rơi vào vô hạn kết quả
   - thay line code 14  : hash_length = number ( đây là độ dài ký tự có trong password, ví dụ 6 ký tự, 8 ký tự )
