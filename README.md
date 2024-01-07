@@ -6,3 +6,7 @@
   - thay line code 19 string_per_second = number ( đây là tốc độ tạo kết quả trong 1 giây, ví dụ 1 triệu password )
   - lệnh chạy ** python3 main.py **
   - ** pip3 install tqdm **
+
+
+## Có thể dùng tool node js thay thế nha
+
